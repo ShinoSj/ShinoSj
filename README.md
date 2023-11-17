@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShinoSj
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Cloud Technologies and the various evolving innovations around the world.
-- 🌱 I’m currently learning Frontend Development
-- 📫 You can me reach me on shinoshamit@hotmail.com for any queries.
+- 👋 Hi, I’m @ShinoSj. Glad to meet you here 😃
+- 👀 Interested in the field of Artificial Intelligence, Machine Learning, Cloud Technologies and the various evolving innovations around the world.
+- 🌱 Currently in the process of learning Frontend Development, Machine learning and more exciting works.
+- 📫 Reach me on shinoshamit@hotmail.com to get connected.
